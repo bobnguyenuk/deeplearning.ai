@@ -1,5 +1,5 @@
-# deeplearning.ai
-## Deep Learning Specialization
+# Course 1 by Andrew Ng from deeplearning.ai & Coursera
+## Bob to start in 2018
 **Master Deep Learning, and Break into AI**
 
 ## There is all the `ipynb` notebook and slides that associated with <a href="http://deeplearning.ai">deeplearning.ai</a>

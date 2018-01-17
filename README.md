@@ -3,10 +3,10 @@
 **Master Deep Learning, and Break into AI**
 
 ## There is all the `ipynb` notebook and slides that associated with <a href="http://deeplearning.ai">deeplearning.ai</a>
-* **There is no solution in the notebook**
-* **All datafile added**
-* **You Can download them and practice offline**
-* **All slide added**
+* **There is no solution in the notebook <-- Bob add his files **
+* **All datafile added <-- Yes**
+* **You Can download them and practice offline <-- Yes **
+* **All slide added <-- No need**
 
 ## Pre Trained Models
 **Github only allows to share file less than 50mb. There is some pre-trained model like resnet etc. Suggest you to download them from My [Google Drive](https://drive.google.com/open?id=1_HDHpsm_bIOkdo7aVkOcLsYxejilRujv) or download them from online (as they are so popular you can easily get them)**
